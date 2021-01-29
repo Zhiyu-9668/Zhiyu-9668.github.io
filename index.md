@@ -12,21 +12,21 @@ Born in Beijing, China <span style="color:white"> and spent a childhood happy as
 Happily finished 1-12th grades in hometown <br/>
 Left to Hefei, Anhui for [college](https://en.ustc.edu.cn/), started feeling homesick <br/>
 Graduated with a so-so GPA in B.S., biotechnology :P <br/>
-After graduation, gapped for a year, working as research assistant [here](http://cnp.ustc.edu.cn/) <br/>
-Then joined Purdue [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
-And settled in [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
-Decided to take a dual M.S. in [stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html) <span style="color:white"> Soon as I figured the tuition would be covered by the university  </span> <br/>
+After graduation, worked as a research assistant [here](http://cnp.ustc.edu.cn/) for a year <br/>
+Came Purdue and joined [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
+Joined [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
+Decided to take a dual M.S. in [stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html)
 Anticipated to graduate from both **SOON!** 
 
 ## Research experience
 ### At Purdue 
-  **Department of Biological Sciences, Graduate Research Assistant, 08/2017-present**
+  **Department of Biological Sciences, Graduate Research Assistant, 08/2017-present** <br/>
   Know my advisors [Prof. Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/people.html) and [Prof. Petros Drineas](https://www.cs.purdue.edu/homes/pdrineas/)
 * Identifying a shared regulatory background for neurodevelopmental disorders through meta-analysis of genome-wide association studies
 *	Developing novel methodologies to effectively extract and analyze information from summary statistics of genome-wide association studies
 
 ### At USTC
-  **School of Life Science, Undergraduate Research Assistant, 04/2014 – 06/2016**
+  **School of Life Science, Undergraduate Research Assistant, 04/2014 – 06/2016** <br/>
   Know my advisors [Prof. Xiaochu Zhang](https://en.biox.ustc.edu.cn/2011/0621/c7043a340195/page.htm) and [Dr. Lizhuang Yang](https://www.researchgate.net/profile/Li_Zhuang_Yang)
 *	Individual Differences in the Lateralization of Social Cognitive Function in the Temporo-Parietal Junction (TPJ)
 *	Electrical Stimulation over Bilateral Occipito-Temporal Regions Reduces N170 in the Right Hemisphere and the Composite Face Effect
@@ -79,4 +79,6 @@ Send me a letter with pretty stamps to **LILY 1-212, 915 W State St, West Lafaye
 ![Sonia1](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/Screen%20Shot%202021-01-29%20at%2016.02.22.png)
 ![Sonia2](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/Screen%20Shot%202021-01-29%20at%2015.54.29.png)
 
+<span style="color:white"> A piece of my _dark_ little secretes </span> <br/>
+<span style="color:white"> I made up my mind to take the dual M.S. mainly because I figured the tuition would be covered by the university </span> <br/>
 
