@@ -40,7 +40,21 @@ and this ![Image test](https://github.com/g1121148/g1121148.github.io/blob/main/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Publications 
+
+## Research experience
+#### At Purdue 
+  **Department of Biological Sciences, Graduate Research Assistant, 08/2017-present**
+* Identifying a shared regulatory background for neurodevelopmental disorders through meta-analysis of genome-wide association studies
+*	Developing novel methodologies to effectively extract and analyze information from summary statistics of genome-wide association studies<br/>
+Meet my advisors [Prof. Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/people.html) and [Prof. Petros Drineas](https://www.cs.purdue.edu/homes/pdrineas/)
+
+#### At USTC
+  **School of Life Science, Undergraduate Research Assistant, 04/2014 – 06/2016**
+*	Individual Differences in the Lateralization of Social Cognitive Function in the Temporo-Parietal Junction (TPJ)
+*	Electrical Stimulation over Bilateral Occipito-Temporal Regions Reduces N170 in the Right Hemisphere and the Composite Face Effect<br/>
+Meet my advisors [Prof. Xiaochu Zhang](https://en.biox.ustc.edu.cn/2011/0621/c7043a340195/page.htm) and [Dr. Lizhuang Yang](https://www.researchgate.net/profile/Li_Zhuang_Yang)
+
+## Publications 
 Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel framework. (manuscript in preparation) 
 
 [Investigating shared genetic basis across Tourette Syndrome and comorbid neurodevelopmental disorders along the impulsivity-compulsivity spectrum](https://www.sciencedirect.com/science/article/pii/S000632232100038X)
@@ -55,28 +69,28 @@ Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel frame
 
 [Electrical Stimulation over Bilateral Occipito-Temporal Regions Reduces N170 in the Right Hemisphere and the Composite Face Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4274090/)
 
-### Presentations
+## Presentations
 
 Lemme see how this looks like \
 omg size 4 so big..
 
-**Shared biological mechanisms across ADHD,ASD,OCD and TS -- from Genetics to Neurobiology** <font size="2">Purdue Biological Retreat, Nov 15-17th, 2019, Plymouth, Indiana (Oral presentation)</font> 
+**Shared biological mechanisms across ADHD,ASD,OCD and TS -- from Genetics to Neurobiology** <br/><font size="2">Purdue Biological Retreat, Nov 15-17th, 2019, Plymouth, Indiana (Oral presentation)</font> 
 
-**Cross-disorder meta-analysis of genomewide association studies sheds light into potentially shared neurobiology across Attention Deficit Hyperactivity Disorder, Autism Spectrum Disorders, Obsessive Compulsive Disorder, and Tourette Syndrome** <font size="2">2019 World Congress of Psychiatric Genetics, Oct 30, 2019, Anaheim, California (Oral presentation)</font> 
+**Cross-disorder meta-analysis of genomewide association studies sheds light into potentially shared neurobiology across Attention Deficit Hyperactivity Disorder, Autism Spectrum Disorders, Obsessive Compulsive Disorder, and Tourette Syndrome** <br/><font size="2">2019 World Congress of Psychiatric Genetics, Oct 30, 2019, Anaheim, California (Oral presentation)</font> 
 
-**Uncovering the Shared Genetic Basis across Childhood-onset Neuropsychiatric Disorders: ADHD, ASD, OCD and TS** <font size="2">Health and Disease: Science, Technology, Culture and Policy poster session, Feb 28th, 2019, West Lafayette, Indiana (Poster Presentation)</font> 
+**Uncovering the Shared Genetic Basis across Childhood-onset Neuropsychiatric Disorders: ADHD, ASD, OCD and TS** <br/><font size="2">Health and Disease: Science, Technology, Culture and Policy poster session, Feb 28th, 2019, West Lafayette, Indiana (Poster Presentation)</font> 
 
-**Uncovering the Shared Genetic Basis across Childhood-onset Neuropsychiatric Disorders: ADHD, ASD, OCD and TS** <font size="2">Sigma Xi 2019 poster night, Feb 26th, 2018, West Lafayette, Indiana (Poster Presentation)</font> 
+**Uncovering the Shared Genetic Basis across Childhood-onset Neuropsychiatric Disorders: ADHD, ASD, OCD and TS** <br/><font size="2">Sigma Xi 2019 poster night, Feb 26th, 2018, West Lafayette, Indiana (Poster Presentation)</font> 
 
-**Application of Denoising Techniques on SNP-based Risk Prediction for Complex Neuropsychiatric Disorders** <font size="2">the 68th Annual Meeting of The American Society of Human Genetics, Oct 19th, 2018, San Diego, California (Poster presentation, PgmNr 1376)</font> 
+**Application of Denoising Techniques on SNP-based Risk Prediction for Complex Neuropsychiatric Disorders** <br/><font size="2">the 68th Annual Meeting of The American Society of Human Genetics, Oct 19th, 2018, San Diego, California (Poster presentation, PgmNr 1376)</font> 
 
-**Application of Denoising Techniques on Genome-wide Association Studies** <font size="2">Health and Disease: Science, Technology, Culture and Policy poster session, Mar 1st, 2018, West Lafayette, Indiana (Poster Presentation)</font> 
+**Application of Denoising Techniques on Genome-wide Association Studies** <br/><font size="2">Health and Disease: Science, Technology, Culture and Policy poster session, Mar 1st, 2018, West Lafayette, Indiana (Poster Presentation)</font> 
 
-**Application of machine learning approaches on genotype based disease prediction** <font size="2">Purdue Biological Retreat, Nov 10-12th, 2017, Bloomington, Indiana (Poster presentation)</font> 
+**Application of machine learning approaches on genotype based disease prediction** <br/><font size="2">Purdue Biological Retreat, Nov 10-12th, 2017, Bloomington, Indiana (Poster presentation)</font> 
 
-**Identifying a shared regulatory background for neuro-developmental disorders through meta-analysis of genomewide association studies** <font size="2">the 67th Annual Meeting of The American Society of Human Genetics, Oct 19th, 2017, Orlando, Florida (Poster presentation, PgmNr 2142)</font> 
+**Identifying a shared regulatory background for neuro-developmental disorders through meta-analysis of genomewide association studies** <br/><font size="2">the 67th Annual Meeting of The American Society of Human Genetics, Oct 19th, 2017, Orlando, Florida (Poster presentation, PgmNr 2142)</font> 
 
-
+## 
 
 
 
