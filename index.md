@@ -40,14 +40,14 @@ and this ![Image test](https://github.com/g1121148/g1121148.github.io/blob/main/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-# This is a magical homepage, where you can:
+# <font size="10">This is a magical homepage, where you can:</font> 
 * Check my [Education](#education-and-life-experience)
 * Find out my [Research experience](#research-experience)
 * Browse my [Publicatios](#publications)
 * Figure where I have [Presented](#presentations)
 * Download a copy of my [CV](https://github.com/g1121148/g1121148.github.io/blob/main/CV-20210129.pdf)
 * Contact [me](#contact)
-* Or just [click here](#thank-you-for-clicking!)
+* Or just [click here](#thank-you-for-clicking)
 
 ## Education and life experience
 Born in Beijing, China <span style="color:white"> and spent a childhood happy as Maruko-chan </span><br/>
