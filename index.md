@@ -45,6 +45,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * Find out my [Research experience](#research-experience)
 * Browse my [Publicatios](#publications)
 * Figure where I have [Presented](#presentations)
+* Download a copy of my [CV]()
 * Contact [me](#contact)
 * Or just [click here](#thank-you-for-clicking!)
 
