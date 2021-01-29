@@ -40,7 +40,7 @@ and this ![Image test](https://github.com/g1121148/g1121148.github.io/blob/main/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-# <font size="10">This is a magical homepage, where you can:</font> 
+# <font size="8">This is a magical homepage, where you can:</font> 
 * Check my [Education](#education-and-life-experience)
 * Find out my [Research experience](#research-experience)
 * Browse my [Publicatios](#publications)
