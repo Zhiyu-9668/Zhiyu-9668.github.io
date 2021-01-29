@@ -1,7 +1,7 @@
 ## This is the secret homepage of Zhiyu, where you can:
 * Check Zhiyu's [Education](#education-and-life-experience)
 * Find out Zhiyu's [Research experience](#research-experience)
-* Browse Zhiyu's [Publicatios](#publications)
+* Browse Zhiyu's [Publications](#publications)
 * Figure where Zhiyu has [Presented](#presentations)
 * Download a copy of Zhiyu's [CV](https://github.com/g1121148/g1121148.github.io/blob/main/CV-20210129.pdf)
 * Contact [Zhiyu](#contact)
@@ -13,7 +13,7 @@ Happily finished 1-12th grades in hometown <br/>
 Left to Hefei, Anhui for [college](https://en.ustc.edu.cn/), started feeling homesick <br/>
 Graduated with a so-so GPA in B.S., biotechnology :P <br/>
 After graduation, worked as a research assistant [here](http://cnp.ustc.edu.cn/) for a year <br/>
-Came Purdue and joined [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
+Came to Purdue, joined [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
 Joined [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
 Decided to take a dual M.S. in [stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html)
 Anticipated to graduate from both **SOON!** 
