@@ -34,7 +34,7 @@ Syntax highlighted code block
 **Will this be bold?**
 _will this be Italic?_
 see if this works [Google](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwisxqXQ37_uAhWDAp0JHQ0HASYQPAgI) \
-and this ![Image test](g1121148.github.io/Img/1.jpeg)
+and this ![Image test](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/1.jpeg)
 
 <span style="color:white"> **Will this be white Bold?** </span>
 
