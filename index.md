@@ -11,9 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-** I'm playing around github page **
+**I'm playing around github page**
 ## Header 2
 ### Header 3
+
+_will this be Italic?_
 
 - Bulleted
 - List
@@ -22,6 +24,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+see if this works [Google](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwisxqXQ37_uAhWDAp0JHQ0HASYQPAgI)
+and this ![Image test]()
+
+
 
 [Link](url) and ![Image](src)
 ```
