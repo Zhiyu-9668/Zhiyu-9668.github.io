@@ -32,7 +32,7 @@ _will this be Italic?_
 see if this works [Google](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwisxqXQ37_uAhWDAp0JHQ0HASYQPAgI)
 and this ![Image test](https://github.com/g1121148/g1121148.github.io/blob/main/Img/1.jpeg)
 
-<span style="color:red">some **Will this be Red Bold?** text</span>
+<span style="color:white"> **Will this be white Bold?** </span>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
