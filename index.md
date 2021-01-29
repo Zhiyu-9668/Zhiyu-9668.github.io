@@ -43,11 +43,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ## Education and life experience
-Born in Beijing, China <span style="color:white"> and spent a childhood as shown in [Chibi Maruko-chan](https://en.wikipedia.org/wiki/Chibi_Maruko-chan) </span><br/>
+Born in Beijing, China <span style="color:white"> and spent a childhood as shown in Chibi Maruko-chan[](https://en.wikipedia.org/wiki/Chibi_Maruko-chan) </span><br/>
 Happily spent 1-12th grades in hometown <span style="color:white"> BTW my highschool life 
  appeared like [this](https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys) </span> <br/>
 Then left to Hefei, Anhui for [college](https://en.ustc.edu.cn/), started feeling homesick <br/>
-Graduated with a so-so GPA in B.S. in biotechnology :P <br/>
+Graduated with a so-so GPA in B.S., biotechnology :P <br/>
 After graduation, gapped for a year, working as research assistant [here](http://cnp.ustc.edu.cn/) <br/>
 Then joined Purdue [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
 And settled in [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
