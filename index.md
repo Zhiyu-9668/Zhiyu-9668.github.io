@@ -41,18 +41,32 @@ and this ![Image test](https://github.com/g1121148/g1121148.github.io/blob/main/
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-## Research experience
-#### At Purdue 
-  **Department of Biological Sciences, Graduate Research Assistant, 08/2017-present**
-* Identifying a shared regulatory background for neurodevelopmental disorders through meta-analysis of genome-wide association studies
-*	Developing novel methodologies to effectively extract and analyze information from summary statistics of genome-wide association studies<br/>
-Meet my advisors [Prof. Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/people.html) and [Prof. Petros Drineas](https://www.cs.purdue.edu/homes/pdrineas/)
 
-#### At USTC
+## Education and life experience
+Born in Beijing, China <span style="color:white"> and spent a childhood as shown in [Chibi Maruko-chan](https://en.wikipedia.org/wiki/Chibi_Maruko-chan) </span><br/>
+Happily spent 1-12th grades in hometown <span style="color:white"> BTW my highschool life 
+ appeared like [this](https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys) </span> <br/>
+Then left to Hefei, Anhui for [college](https://en.ustc.edu.cn/), started feeling homesick <br/>
+Graduated with a so-so GPA in B.S. in biotechnology :P <br/>
+After graduation, gapped for a year, working as research assistant [here](http://cnp.ustc.edu.cn/) <br/>
+Then joined Purdue [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
+And settled in [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
+After two years in PhD, decided to take a dual M.S. in [stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html) <span style="color:white"> Because I figured the tuition would be covered by the university  </span> <br/>
+Anticipated to graduate from both **SOON!** 
+
+## Research experience
+### At Purdue 
+  **Department of Biological Sciences, Graduate Research Assistant, 08/2017-present**
+  Know my advisors [Prof. Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/people.html) and [Prof. Petros Drineas](https://www.cs.purdue.edu/homes/pdrineas/)
+* Identifying a shared regulatory background for neurodevelopmental disorders through meta-analysis of genome-wide association studies
+*	Developing novel methodologies to effectively extract and analyze information from summary statistics of genome-wide association studies
+
+### At USTC
   **School of Life Science, Undergraduate Research Assistant, 04/2014 – 06/2016**
+  Know my advisors [Prof. Xiaochu Zhang](https://en.biox.ustc.edu.cn/2011/0621/c7043a340195/page.htm) and [Dr. Lizhuang Yang](https://www.researchgate.net/profile/Li_Zhuang_Yang)
 *	Individual Differences in the Lateralization of Social Cognitive Function in the Temporo-Parietal Junction (TPJ)
-*	Electrical Stimulation over Bilateral Occipito-Temporal Regions Reduces N170 in the Right Hemisphere and the Composite Face Effect<br/>
-Meet my advisors [Prof. Xiaochu Zhang](https://en.biox.ustc.edu.cn/2011/0621/c7043a340195/page.htm) and [Dr. Lizhuang Yang](https://www.researchgate.net/profile/Li_Zhuang_Yang)
+*	Electrical Stimulation over Bilateral Occipito-Temporal Regions Reduces N170 in the Right Hemisphere and the Composite Face Effect
+
 
 ## Publications 
 Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel framework. (manuscript in preparation) 
@@ -89,8 +103,6 @@ omg size 4 so big..
 **Application of machine learning approaches on genotype based disease prediction** <br/><font size="2">Purdue Biological Retreat, Nov 10-12th, 2017, Bloomington, Indiana (Poster presentation)</font> 
 
 **Identifying a shared regulatory background for neuro-developmental disorders through meta-analysis of genomewide association studies** <br/><font size="2">the 67th Annual Meeting of The American Society of Human Genetics, Oct 19th, 2017, Orlando, Florida (Poster presentation, PgmNr 2142)</font> 
-
-## 
 
 
 
