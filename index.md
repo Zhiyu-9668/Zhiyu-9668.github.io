@@ -111,6 +111,10 @@ omg size 4 so big..
 **Identifying a shared regulatory background for neuro-developmental disorders through meta-analysis of genomewide association studies** <br/><font size="2">the 67th Annual Meeting of The American Society of Human Genetics, Oct 19th, 2017, Orlando, Florida (Poster presentation, PgmNr 2142)</font> 
 
 ## Contact
+Send me an [**Email**](yang1269@purdue.edu) to Purdue <br/>
+Send me an [**Email**](g1121148.zy@gmail.edu) to Gmail <br/>
+Text me at 765-772-6728 <span style="color:white"> DON'T CALL! PLZ! </span><br/>
+Send me a letter with pretty stamps to ** LILY 1-212, 915 W State St, West Lafayette, IN 47907**
 
 ## Thank you for clicking!
 
