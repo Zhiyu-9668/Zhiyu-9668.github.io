@@ -40,13 +40,24 @@ and this ![Image test](https://github.com/g1121148/g1121148.github.io/blob/main/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Publications 
+Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel framework. (manuscript in preparation) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/g1121148/g1121148.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Investigating shared genetic basis across Tourette Syndrome and comorbid neurodevelopmental disorders along the impulsivity-compulsivity spectrum](https://www.sciencedirect.com/science/article/pii/S000632232100038X)
+
+[Neural and Psychological Predictors of Cognitive Enhancement and Impairment from Neurostimulation](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201902863)
+
+[De Novo Sequence and Copy Number Variants Are Strongly Associated with Tourette Disorder and Implicate Cell Polarity in Pathogenesis](https://www.sciencedirect.com/science/article/pii/S221112471831386X)
+
+[Non-invasive Brain Stimulation for the Treatment of Nicotine Addiction: Potential and Challenges](https://link.springer.com/article/10.1007/s12264-016-0056-3)
+
+[Excessive use of Twitter among college students in the UK: Validation of the Microblog Excessive Use Scale and relationship to social interaction and loneliness](https://www.sciencedirect.com/science/article/abs/pii/S0747563215301989?casa_token=npQLGJvA450AAAAA:Yj51JhGR11O1_mpszchhAkaD7JeP20A2PmHSTtm0m87fYHa7_QLkTJaCbw6jnTTm0pxgP5hOhg)
+
+[Electrical Stimulation over Bilateral Occipito-Temporal Regions Reduces N170 in the Right Hemisphere and the Composite Face Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4274090/)
 
 ### Presentations
 
-Lemme see how this looks like 
+Lemme see how this looks like \
 omg size 4 so big..
 
 **Shared biological mechanisms across ADHD,ASD,OCD and TS -- from Genetics to Neurobiology** <font size="2">Purdue Biological Retreat, Nov 15-17th, 2019, Plymouth, Indiana (Oral presentation)</font> 
