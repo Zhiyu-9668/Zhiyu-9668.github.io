@@ -1,10 +1,10 @@
-# <font size="7">This is the secret homepage of Zhiyu, where you can:</font> 
-* Check my [Education](#education-and-life-experience)
-* Find out my [Research experience](#research-experience)
-* Browse my [Publicatios](#publications)
-* Figure where I have [Presented](#presentations)
-* Download a copy of my [CV](https://github.com/g1121148/g1121148.github.io/blob/main/CV-20210129.pdf)
-* Contact [me](#contact)
+## This is the secret homepage of Zhiyu, where you can:
+* Check Zhiyu's [Education](#education-and-life-experience)
+* Find out Zhiyu's [Research experience](#research-experience)
+* Browse Zhiyu's [Publicatios](#publications)
+* Figure where Zhiyu has [Presented](#presentations)
+* Download a copy of Zhiyu's [CV](https://github.com/g1121148/g1121148.github.io/blob/main/CV-20210129.pdf)
+* Contact [Zhiyu](#contact)
 * Or just [click here](#thank-you-for-clicking)
 
 ## Education and life experience
