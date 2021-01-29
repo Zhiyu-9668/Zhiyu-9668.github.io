@@ -10,7 +10,7 @@
 ## Education and life experience
 Born in Beijing, China <span style="color:white"> and spent a childhood happy as Maruko-chan </span><br/>
 Happily finished 1-12th grades in hometown <br/>
-Then left to Hefei, Anhui for [college](https://en.ustc.edu.cn/), started feeling homesick <br/>
+Left to Hefei, Anhui for [college](https://en.ustc.edu.cn/), started feeling homesick <br/>
 Graduated with a so-so GPA in B.S., biotechnology :P <br/>
 After graduation, gapped for a year, working as research assistant [here](http://cnp.ustc.edu.cn/) <br/>
 Then joined Purdue [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
