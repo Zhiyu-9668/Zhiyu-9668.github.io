@@ -9,7 +9,7 @@
 
 
 ## Education
-Did college [here](https://en.ustc.edu.cn/) and graduated with B.S., biotechnology
+Did college [here](https://en.ustc.edu.cn/) and graduated with B.S., biotechnology <br/>
 Worked as a research assistant [here](http://cnp.ustc.edu.cn/) for a year <br/>
 Came to Purdue, joined [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
 Joined [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
