@@ -9,7 +9,7 @@
 
 ## Education
 * **2011-2015** [University of Science and Technology of China](https://en.ustc.edu.cn/), B.S., biotechnology <br/>
-* **2015-2016**  [Cognitive Neuropsychology Laboratory, USTC](http://cnp.ustc.edu.cn/), research assistant <br/>
+* **2015-2016**  [Cognitive Neuropsychology Laboratory](http://cnp.ustc.edu.cn/), [USTC](https://en.ustc.edu.cn/), research assistant <br/>
 * **2016-2017** [PuLSe Program](https://www.purdue.edu/gradschool/pulse/), [Purdue](https://www.purdue.edu/), rotation student <br/>
 * **2017-present** [Laboratory of Dr Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/index.html), [Biological sciences](https://www.bio.purdue.edu/), [Purdue](https://www.purdue.edu/), PhD candidate <br/>
 * **2020-present** [Statistics](https://www.stat.purdue.edu/), [Purdue](https://www.purdue.edu/), dual M.S. student <br/>
