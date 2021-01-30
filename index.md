@@ -73,8 +73,8 @@ Write me a letter to **LILY 1-212, 915 W State St, West Lafayette, IN 47907**
 
 ## Thank you for clicking! 
 **Congrats!** You found Sonia, the cutest hedgehog ever :D
-![Sonia1](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/GreatYouNoticedThis.png)
-![Sonia2](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/DidYouNoticeSomethingElse.png)
+![Sonia1](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/GreatYouNoticedThis.png)<br/>
+![Sonia2](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/DidYouNoticeSomethingElse.png)<br/>
 <span style="color:white"> Congrats, you found the only thing that is not on the CV.</span><br/>
 <span style="color:white"> DON'T CALL ME! PLZ! Unless you are hr from Nintendo and want to give me a job.</span><br/>
 <span style="color:white"> BTW could anybody tell me how to disable the _View My GitHub Profile_ button on my page it's driving me crazy.</span><br/>
