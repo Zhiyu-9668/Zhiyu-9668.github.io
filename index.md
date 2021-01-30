@@ -78,4 +78,5 @@ Write me a letter to **LILY 1-212, 915 W State St, West Lafayette, IN 47907**
 ![Sonia2](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/DidYouNoticeSomethingElse.png)
 
 <span style="color:white"> DON'T CALL ME! PLZ! Unless you are hr from Nintendo and want to give me a job.</span><br/>
+<span style="color:white"> BTW could anybody tell me how to disable the **View My GitHub Profile** button on my page it's driving me crazy.</span><br/>
 
