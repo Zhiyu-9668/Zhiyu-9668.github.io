@@ -14,7 +14,7 @@ Worked as a research assistant [here](http://cnp.ustc.edu.cn/) for a year <br/>
 Came to Purdue, joined [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
 Joined [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
 Decided to take a dual M.S. in [stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html) <br/>
-Hopefully anticipated to graduate from both **SOON.**
+Anticipated to graduate from both SOON.
 
 
 ## Research experience
