@@ -1,20 +1,19 @@
-## Here you can:
-* Check Zhiyu's [Education](#education)
-* Find out Zhiyu's [Research experience](#research-experience)
-* Browse Zhiyu's [Publications](#publications)
-* Figure where Zhiyu has [Presented](#presentations)
-* Download a copy of Zhiyu's [CV](https://github.com/g1121148/g1121148.github.io/blob/main/CV-20210129.pdf)
-* Contact [Zhiyu](#contact)
-* Or just [click here](#thank-you-for-clicking)
+* [Education](#education)
+* [Research experience](#research-experience)
+* [Publications](#publications)
+* [Presented](#presentations)
+* [CV](https://github.com/g1121148/g1121148.github.io/blob/main/CV-20210129.pdf)
+* [Contact Zhiyu](#contact)
+* [click here](#thank-you-for-clicking)
 
 
 ## Education
-Went college [here](https://en.ustc.edu.cn/) and graduated with B.S., biotechnology <br/>
-Worked as a research assistant [here](http://cnp.ustc.edu.cn/) for a year <br/>
-Came to Purdue, joined [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
-Joined [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
-Took a dual M.S. in [Stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html) <br/>
-Anticipated to graduate from both SOON.
+* 2011-2015 [University of Science and Technology of China](https://en.ustc.edu.cn/), B.S., biotechnology <br/>
+* 2015-2016  [Cognitive Neuropsychology Laboratory, USTC](http://cnp.ustc.edu.cn/), research assistant <br/>
+* 2016 [PuLSe Program](https://www.purdue.edu/gradschool/pulse/), [Purdue](https://www.purdue.edu/), rotation student <br/>
+* 2017-present [Laboratory of Dr Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/index.html), [Biological sciences](https://www.bio.purdue.edu/), [Purdue](https://www.purdue.edu/), PhD candidate <br/>
+* 2019-present [Statistics](https://www.stat.purdue.edu/), [Purdue](https://www.purdue.edu/), dual M.S. student <br/>
+* Anticipated to graduate from both soon.
 
 
 ## Research experience
@@ -72,11 +71,11 @@ Text me at 765-772-6728 <br/>
 Write me a letter to **LILY 1-212, 915 W State St, West Lafayette, IN 47907**
 
 
-## Thank you for clicking!
+## Thank you for clicking! 
 **Congrats!** You found Sonia, the cutest hedgehog ever :D
 ![Sonia1](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/GreatYouNoticedThis.png)
 ![Sonia2](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/DidYouNoticeSomethingElse.png)
-
+<span style="color:white"> Congrats, you found the only thing that is not on the CV.</span><br/>
 <span style="color:white"> DON'T CALL ME! PLZ! Unless you are hr from Nintendo and want to give me a job.</span><br/>
 <span style="color:white"> BTW could anybody tell me how to disable the _View My GitHub Profile_ button on my page it's driving me crazy.</span><br/>
 
