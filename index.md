@@ -12,7 +12,7 @@
 * **2015-2016**  [Cognitive Neuropsychology Laboratory, USTC](http://cnp.ustc.edu.cn/), research assistant <br/>
 * **2016-2017** [PuLSe Program](https://www.purdue.edu/gradschool/pulse/), [Purdue](https://www.purdue.edu/), rotation student <br/>
 * **2017-present** [Laboratory of Dr Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/index.html), [Biological sciences](https://www.bio.purdue.edu/), [Purdue](https://www.purdue.edu/), PhD candidate <br/>
-* **2019-present** [Statistics](https://www.stat.purdue.edu/), [Purdue](https://www.purdue.edu/), dual M.S. student <br/>
+* **2020-present** [Statistics](https://www.stat.purdue.edu/), [Purdue](https://www.purdue.edu/), dual M.S. student <br/>
 * Anticipated to graduate from both soon.
 
 
