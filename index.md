@@ -73,7 +73,7 @@ Send me a letter to **LILY 1-212, 915 W State St, West Lafayette, IN 47907**
 
 
 ## Thank you for clicking!
-**Congrats!** You also found Sonia, the cutest hedgehog ever :D
+**Congrats!** You found Sonia, the cutest hedgehog ever :D
 ![Sonia1](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/Screen%20Shot%202021-01-29%20at%2016.02.22.png)
 ![Sonia2](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/Screen%20Shot%202021-01-29%20at%2015.54.29.png)
 
