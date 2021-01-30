@@ -66,8 +66,8 @@ Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel frame
 
 
 ## Contact
-Send me an [**Email**](yang1269@purdue.edu) to Purdue <br/>
-Send me an [**Email**](g1121148.zy@gmail.edu) to Gmail <br/>
+Send me an [**Email**](mailto:yang1269@purdue.edu) to Purdue <br/>
+Send me an [**Gmail**](mailto:g1121148.zy@gmail.com) <br/>
 Text me at 765-772-6728 <br/>
 Write me a letter to **LILY 1-212, 915 W State St, West Lafayette, IN 47907**
 
