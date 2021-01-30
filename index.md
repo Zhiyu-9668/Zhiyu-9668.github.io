@@ -49,9 +49,6 @@ Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel frame
 
 ## Presentations
 
-Lemme see how this looks like \
-omg size 4 so big..
-
 **Shared biological mechanisms across ADHD,ASD,OCD and TS -- from Genetics to Neurobiology** <br/><font size="2">Purdue Biological Retreat, Nov 15-17th, 2019, Plymouth, Indiana (Oral presentation)</font> 
 
 **Cross-disorder meta-analysis of genomewide association studies sheds light into potentially shared neurobiology across Attention Deficit Hyperactivity Disorder, Autism Spectrum Disorders, Obsessive Compulsive Disorder, and Tourette Syndrome** <br/><font size="2">2019 World Congress of Psychiatric Genetics, Oct 30, 2019, Anaheim, California (Oral presentation)</font> 
