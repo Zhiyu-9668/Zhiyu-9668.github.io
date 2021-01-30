@@ -1,5 +1,5 @@
-## This is the secret homepage of Zhiyu, where you can:
-* Check Zhiyu's [Education](#education-and-life-experience)
+## This is where you can:
+* Check Zhiyu's [Education](#education)
 * Find out Zhiyu's [Research experience](#research-experience)
 * Browse Zhiyu's [Publications](#publications)
 * Figure where Zhiyu has [Presented](#presentations)
@@ -7,16 +7,15 @@
 * Contact [Zhiyu](#contact)
 * Or just [click here](#thank-you-for-clicking)
 
-## Education and life experience
-Born in Beijing, China <span style="color:white"> and spent a childhood happy as Maruko-chan </span><br/>
-Happily finished 1-12th grades in hometown <br/>
-Left to Hefei, Anhui for [college](https://en.ustc.edu.cn/), started feeling homesick <br/>
-Graduated with a so-so GPA in B.S., biotechnology :P <br/>
-After graduation, worked as a research assistant [here](http://cnp.ustc.edu.cn/) for a year <br/>
+
+## Education
+Did college [here](https://en.ustc.edu.cn/) and graduated with B.S., biotechnology
+Worked as a research assistant [here](http://cnp.ustc.edu.cn/) for a year <br/>
 Came to Purdue, joined [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
 Joined [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
 Decided to take a dual M.S. in [stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html) <br/>
-Anticipated to graduate from both **SOON!** 
+Hopefully anticipated to graduate from both **SOON.**
+
 
 ## Research experience
 ### At Purdue 
@@ -47,8 +46,8 @@ Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel frame
 
 [Electrical Stimulation over Bilateral Occipito-Temporal Regions Reduces N170 in the Right Hemisphere and the Composite Face Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4274090/)
 
-## Presentations
 
+## Presentations
 **Shared biological mechanisms across ADHD,ASD,OCD and TS -- from Genetics to Neurobiology** <br/><font size="2">Purdue Biological Retreat, Nov 15-17th, 2019, Plymouth, Indiana (Oral presentation)</font> 
 
 **Cross-disorder meta-analysis of genomewide association studies sheds light into potentially shared neurobiology across Attention Deficit Hyperactivity Disorder, Autism Spectrum Disorders, Obsessive Compulsive Disorder, and Tourette Syndrome** <br/><font size="2">2019 World Congress of Psychiatric Genetics, Oct 30, 2019, Anaheim, California (Oral presentation)</font> 
@@ -65,17 +64,18 @@ Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel frame
 
 **Identifying a shared regulatory background for neuro-developmental disorders through meta-analysis of genomewide association studies** <br/><font size="2">the 67th Annual Meeting of The American Society of Human Genetics, Oct 19th, 2017, Orlando, Florida (Poster presentation, PgmNr 2142)</font> 
 
+
 ## Contact
 Send me an [**Email**](yang1269@purdue.edu) to Purdue <br/>
 Send me an [**Email**](g1121148.zy@gmail.edu) to Gmail <br/>
-Text me at 765-772-6728 <span style="color:white"> DON'T CALL! PLZ! </span><br/>
-Send me a letter with pretty stamps to **LILY 1-212, 915 W State St, West Lafayette, IN 47907**
+Text me at 765-772-6728
+Send me a letter to **LILY 1-212, 915 W State St, West Lafayette, IN 47907**
+
 
 ## Thank you for clicking!
 **Congrats!** You also found Sonia, the cutest hedgehog ever :D
 ![Sonia1](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/Screen%20Shot%202021-01-29%20at%2016.02.22.png)
 ![Sonia2](https://raw.githubusercontent.com/g1121148/g1121148.github.io/main/Img/Screen%20Shot%202021-01-29%20at%2015.54.29.png)
 
-<span style="color:white"> A piece of my _dark_ little secrets </span> <br/>
-<span style="color:white"> I made up my mind to take the dual M.S. mainly because I figured the tuition would be covered by the university </span> <br/>
+<span style="color:white"> DON'T CALL ME! PLZ! Unless you are hr from Nintendo and want to give me a job.</span><br/>
 
