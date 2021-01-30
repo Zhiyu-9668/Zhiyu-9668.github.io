@@ -1,4 +1,4 @@
-## This is where you can:
+## Here you can:
 * Check Zhiyu's [Education](#education)
 * Find out Zhiyu's [Research experience](#research-experience)
 * Browse Zhiyu's [Publications](#publications)
@@ -9,24 +9,24 @@
 
 
 ## Education
-Did college [here](https://en.ustc.edu.cn/) and graduated with B.S., biotechnology <br/>
+Went college [here](https://en.ustc.edu.cn/) and graduated with B.S., biotechnology <br/>
 Worked as a research assistant [here](http://cnp.ustc.edu.cn/) for a year <br/>
 Came to Purdue, joined [PuLSe Program](https://www.purdue.edu/gradschool/pulse/) and started one year rotation <br/>
 Joined [this lab](https://www.bio.purdue.edu/lab/paschou/index.html) for PhD <br/>
-Decided to take a dual M.S. in [stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html) <br/>
+Took a dual M.S. in [Stats](https://www.cs.purdue.edu/graduate/curriculum/statistics_cs.html) <br/>
 Anticipated to graduate from both SOON.
 
 
 ## Research experience
 ### At Purdue 
   **Department of Biological Sciences, Graduate Research Assistant, 08/2017-present** <br/>
-  Know my advisors [Prof. Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/people.html) and [Prof. Petros Drineas](https://www.cs.purdue.edu/homes/pdrineas/)
+  Advisors [Prof. Peristera Paschou](https://www.bio.purdue.edu/lab/paschou/people.html) and [Prof. Petros Drineas](https://www.cs.purdue.edu/homes/pdrineas/)
 * Identifying a shared regulatory background for neurodevelopmental disorders through meta-analysis of genome-wide association studies
 *	Developing novel methodologies to effectively extract and analyze information from summary statistics of genome-wide association studies
 
 ### At USTC
   **School of Life Science, Undergraduate Research Assistant, 04/2014 – 06/2016** <br/>
-  Know my advisors [Prof. Xiaochu Zhang](https://en.biox.ustc.edu.cn/2011/0621/c7043a340195/page.htm) and [Dr. Lizhuang Yang](https://www.researchgate.net/profile/Li_Zhuang_Yang)
+  Advisors [Prof. Xiaochu Zhang](https://en.biox.ustc.edu.cn/2011/0621/c7043a340195/page.htm) and [Dr. Lizhuang Yang](https://www.researchgate.net/profile/Li_Zhuang_Yang)
 *	Individual Differences in the Lateralization of Social Cognitive Function in the Temporo-Parietal Junction (TPJ)
 *	Electrical Stimulation over Bilateral Occipito-Temporal Regions Reduces N170 in the Right Hemisphere and the Composite Face Effect
 
