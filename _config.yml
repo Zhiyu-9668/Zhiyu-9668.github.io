@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Zhiyu Yang's homepage
 description: <span style="color:white"> Life is just an ARG that takes you 70 years to clear, isn't it :) </p> <br\>
+github:
+  is_project_page: false
