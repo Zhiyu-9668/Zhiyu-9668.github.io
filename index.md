@@ -35,6 +35,9 @@ Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel frame
 
 [Investigating shared genetic basis across Tourette Syndrome and comorbid neurodevelopmental disorders along the impulsivity-compulsivity spectrum](https://www.sciencedirect.com/science/article/pii/S000632232100038X)
 
+[A Myasthenia Gravis genomewide association study of three cohorts identifies Agrin as a novel
+risk locus](https://www.medrxiv.org/content/10.1101/2020.10.26.20219261v1.full.pdf)
+
 [Neural and Psychological Predictors of Cognitive Enhancement and Impairment from Neurostimulation](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201902863)
 
 [De Novo Sequence and Copy Number Variants Are Strongly Associated with Tourette Disorder and Implicate Cell Polarity in Pathogenesis](https://www.sciencedirect.com/science/article/pii/S221112471831386X)
