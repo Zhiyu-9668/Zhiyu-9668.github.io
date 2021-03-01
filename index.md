@@ -2,7 +2,7 @@
 * [Research experience](#research-experience)
 * [Publications](#publications)
 * [Presented](#presentations)
-* [CV](https://github.com/g1121148/g1121148.github.io/blob/main/CV-20210129.pdf)
+* [CV](https://github.com/Zhiyu-9668/Zhiyu-9668.github.io/blob/main/CV-ZhiyuYang.pdf)
 * [Contact Zhiyu](#contact)
 * [Click here](#thank-you-for-clicking)
 
