@@ -31,7 +31,7 @@
 
 
 ## Publications 
-Genotype Reconstruction from Case-Control GWAS Summary Statistics: A novel framework. (manuscript in preparation) 
+[Reconstructing SNP Allele and Genotype Frequencies from GWAS Summary Statistics](https://www.biorxiv.org/content/10.1101/2021.04.02.438281v2)
 
 [Investigating shared genetic basis across Tourette Syndrome and comorbid neurodevelopmental disorders along the impulsivity-compulsivity spectrum](https://www.sciencedirect.com/science/article/pii/S000632232100038X)
 
